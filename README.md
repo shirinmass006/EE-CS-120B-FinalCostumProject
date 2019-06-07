@@ -18,4 +18,4 @@
 # 3rd function: LCD_Custom_Char that displays a special character
 # 4th function: TemperatureArray that saves the last ten temperature values in an array
 
-# EE-CS-120B-FinalCostumProject
+# PWM Motor Controller with LCD display / EE 120B
